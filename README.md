@@ -28,5 +28,7 @@ Platform: Any operating system (tested on Windows 11)
 References:
 
 GeeksforGeeks – Insertion Sort Algorithm - https://www.geeksforgeeks.org/dsa/insertion-sort-algorithm/
+
 GeeksforGeeks – Merge Sort Algorithm - https://www.geeksforgeeks.org/dsa/merge-sort/
+
 GeeksforGeeks – timeit Python examples -  https://www.geeksforgeeks.org/python/timeit-python-examples/
