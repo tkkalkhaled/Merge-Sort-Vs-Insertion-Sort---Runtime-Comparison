@@ -32,3 +32,5 @@ GeeksforGeeks – Insertion Sort Algorithm - https://www.geeksforgeeks.org/dsa/i
 GeeksforGeeks – Merge Sort Algorithm - https://www.geeksforgeeks.org/dsa/merge-sort/
 
 GeeksforGeeks – timeit Python examples -  https://www.geeksforgeeks.org/python/timeit-python-examples/
+
+MatPlotLib – Pythonic plotting & Docs - https://matplotlib.org/3.5.3/api/_as_gen/matplotlib.pyplot.html
